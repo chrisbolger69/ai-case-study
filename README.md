@@ -99,8 +99,8 @@ decent cybersecurity to keep its user's financial information from being hacked,
 
 * __*Why are these technologies appropriate for your solution?*__
 They increase customizability, ease of use, security, and stay on the forefront of AI technology.
-
-##Sources
+ 
+## Sources
 * Technopedia Article 
 [9 Best Stock Prediction Software for 2024](https://www.techopedia.com/investing/stock-prediction-software)
 * Crunchbase -- Financial Information Website on companies
